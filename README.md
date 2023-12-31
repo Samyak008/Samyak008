@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Samyak008.
-- 👀 I’m interested in learning C and C++ by end of my First semester.
-- 🌱 I’m currently learning C language.
+- 👋 Hi, I’m Samyak Varia
 - 📫 You can reach me on linkedin at www.linkedin.com/in/samyak-varia-381831249
 
 <!---
