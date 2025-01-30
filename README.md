@@ -3,3 +3,22 @@ Samyak008/Samyak008 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=999&color=8A04ED&width=1100&lines=%F0%9F%91%8B+Hiie%2C+I%E2%80%99m+Samyak_Varia;%F0%9F%91%80+I%E2%80%99m+interested+in+Python,+Automation,+Machine_Learning+and+GenAI;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+DSA;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+Ambitious_Projects)](https://git.io/typing-svg)
+<h2>
+<p align="center">
+  <b>3rd Year Student @ SRMIST</b>
+</p>
+</h2>
+
+***
+## Achievements
+
+<a href ="https://www.credly.com/badges/9bc89f4b-88f0-4f33-81e9-18c6e400bbe4/linked_in_profile"><img src="D:\Samyak008\github-foundations.png" style="width:300px;height:300px;"></a><img src="D:\Samyak008\Hackerrank_C++.jpg" style="width:240;height:290px;"><img src="D:\Samyak008\Hackerrank_c.jpg" style="width:240;height:290px;"><img src="D:\Samyak008\Hackerrank_Java.jpg" style="height:300px" >
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FFC2D728B1D51D06D1842258ED4E55EE6B6149D53E120BAFBC65CDFD09B5E265">
+<img src="D:\Samyak008\Oracle_Cloud Foundation Associate.jpg" style="width:300px;height:300px;"/>
+</a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FFC2D728B1D51D06D1842258ED4E55EE909B1363C862E3AB64C54077ED6D3C9D">
+<img src="D:\Samyak008\Oracle_GenAI Profeesional Certified.jpg" style="width:300px;height:300px"/>
+</a>
+<a href="https://www.credly.com/badges/bd878ff8-868d-4fa1-8839-3dafc9b76dbf">
+<img src="D:\Samyak008\AWS_machine learning Foundations.jpg" style="width:300px;height:300px"/>
+</a>
