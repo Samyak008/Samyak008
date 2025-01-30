@@ -10,6 +10,46 @@ You can click the Preview link to take a look at your changes.
 </h2>
 
 ***
+## Socials
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Links</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/YOUR-FONTAWESOME-KIT.js" crossorigin="anonymous"></script>
+</head>
+<body class="bg-gray-900 flex items-center justify-center h-screen">
+
+    <div class="text-center">
+        <h2 class="text-3xl font-bold text-white mb-6">Follow Me</h2>
+        
+        <div class="flex justify-center space-x-6">
+            <!-- LinkedIn -->
+            <a href="https://www.linkedin.com/in/s08varia/" target="_blank" class="text-blue-400 hover:text-blue-600 transition duration-300">
+                <i class="fab fa-linkedin fa-2x"></i>
+            </a>
+            <!-- Twitter/X -->
+            <a href="https://x.com/Hathimeresaathi" target="_blank" class="text-blue-500 hover:text-blue-700 transition duration-300">
+                <i class="fab fa-x-twitter fa-2x"></i>
+            </a>
+            <!-- Instagram -->
+            <a href="https://www.instagram.com/samyak_varia_/" target="_blank" class="text-pink-400 hover:text-pink-600 transition duration-300">
+                <i class="fab fa-instagram fa-2x"></i>
+            </a>
+            <!-- Email -->
+            <a href="mailto:sam08varia@gmail.com" class="text-green-400 hover:text-green-600 transition duration-300">
+                <i class="fas fa-envelope fa-2x"></i>
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
+
+***
+
 ## Achievements
 
 <table>
@@ -32,3 +72,4 @@ You can click the Preview link to take a look at your changes.
       <img src="https://github.com/Samyak008/Samyak008/blob/main/AWS_machine%20learning%20Foundations.jpg" width="200"></a></td>
   </tr>
 </table>
+
