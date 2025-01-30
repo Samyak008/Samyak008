@@ -12,12 +12,12 @@ You can click the Preview link to take a look at your changes.
 ***
 ## Achievements
 
-<a href ="https://www.credly.com/badges/9bc89f4b-88f0-4f33-81e9-18c6e400bbe4/linked_in_profile"><img src="D:\Samyak008\github-foundations.png" style="width:300px;height:300px;"></a><img src="D:\Samyak008\Hackerrank_C++.jpg" style="width:240;height:290px;"><img src="D:\Samyak008\Hackerrank_c.jpg" style="width:240;height:290px;"><img src="D:\Samyak008\Hackerrank_Java.jpg" style="height:300px" >
+<a href ="https://www.credly.com/badges/9bc89f4b-88f0-4f33-81e9-18c6e400bbe4/linked_in_profile"><img src="https://github.com/Samyak008/Samyak008/blob/main/github-foundations.png" style="width:300px;height:300px;"></a><img src="https://github.com/Samyak008/Samyak008/blob/main/Hackerrank_%20problem%20solving.jpg" style="width:240;height:290px;"><img src="https://github.com/Samyak008/Samyak008/blob/main/Hackerrank_C%2B%2B.jpg" style="width:240;height:290px;"><img src="https://github.com/Samyak008/Samyak008/blob/main/Hackerrank_Java.jpg" style="height:300px" ><img src="https://github.com/Samyak008/Samyak008/blob/main/Hackerrank_c.jpg" style="height:300px" >  
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FFC2D728B1D51D06D1842258ED4E55EE6B6149D53E120BAFBC65CDFD09B5E265">
-<img src="D:\Samyak008\Oracle_Cloud Foundation Associate.jpg" style="width:300px;height:300px;"/>
+<img src="https://github.com/Samyak008/Samyak008/blob/main/Hackerrank_c.jpg" style="width:300px;height:300px;"/> 
 </a>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FFC2D728B1D51D06D1842258ED4E55EE909B1363C862E3AB64C54077ED6D3C9D">
-<img src="D:\Samyak008\Oracle_GenAI Profeesional Certified.jpg" style="width:300px;height:300px"/>
+<img src="https://github.com/Samyak008/Samyak008/blob/main/Oracle_GenAI%20Profeesional%20Certified.jpg" style="width:300px;height:300px"/>
 </a>
 <a href="https://www.credly.com/badges/bd878ff8-868d-4fa1-8839-3dafc9b76dbf">
 <img src="https://github.com/Samyak008/Samyak008/blob/main/AWS_machine%20learning%20Foundations.jpg" style="width:300px;height:300px"/>
