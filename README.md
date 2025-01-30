@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 <img src="D:\Samyak008\Oracle_GenAI Profeesional Certified.jpg" style="width:300px;height:300px"/>
 </a>
 <a href="https://www.credly.com/badges/bd878ff8-868d-4fa1-8839-3dafc9b76dbf">
-<img src="D:\Samyak008\AWS_machine learning Foundations.jpg" style="width:300px;height:300px"/>
+<img src="https://github.com/Samyak008/Samyak008/blob/main/AWS_machine%20learning%20Foundations.jpg" style="width:300px;height:300px"/>
 </a>
