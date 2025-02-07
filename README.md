@@ -21,25 +21,27 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ***
+
+## 💻 WakaTime Stats ⏳
+
+![Samyak's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samyakvaria&layout=compact)
+
+***
+
 ## [Resume](https://drive.google.com/file/d/1n1G85mYTBR3Tb8YB9vqX5blPFi18fyr-/view?usp=sharing)
 ***
+
 ## Achievements
 
 <table>
   <tr>
     <td><a href="https://www.credly.com/badges/9bc89f4b-88f0-4f33-81e9-18c6e400bbe4/linked_in_profile">
       <img src="https://github.com/Samyak008/Samyak008/blob/main/github-foundations.png" width="200"></a></td>
-    <td rowspan="3" align="center">
-      <h3>💻 WakaTime Stats ⏳</h3>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samyakvaria&api_key=waka_fe78b716-d7d8-4c49-b093-131a1bf4a4ed&layout=compact" alt="WakaTime Stats">
-    </td>
     <td><img src="https://github.com/Samyak008/Samyak008/blob/main/Hackerrank_%20problem%20solving.jpg" width="200"></td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/Samyak008/Samyak008/blob/main/Hackerrank_C%2B%2B.jpg" width="200"></td>
-    <td><img src="https://github.com/Samyak008/Samyak008/blob/main/Hackerrank_Java.jpg" width="200"></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/Samyak008/Samyak008/blob/main/Hackerrank_Java.jpg" width="200"></td>
     <td><img src="https://github.com/Samyak008/Samyak008/blob/main/Hackerrank_c.jpg" width="200"></td>
     <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FFC2D728B1D51D06D1842258ED4E55EE6B6149D53E120BAFBC65CDFD09B5E265">
       <img src="https://github.com/Samyak008/Samyak008/blob/main/Oracle_Cloud%20Foundation%20Associate.jpg" width="200"></a></td>
