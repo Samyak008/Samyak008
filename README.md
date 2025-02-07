@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 WakaTime Stats ⏳
 
-![Samyak's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samyakvaria&layout=compact)
+![Samyak's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sam008&layout=compact)
 
 ***
 
