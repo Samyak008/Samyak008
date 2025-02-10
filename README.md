@@ -24,16 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 WakaTime Stats ⏳
 
-![Samyak's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sam008&layout=compact&theme=tokyonight&border_radius=10)
-
-⏳ **Total Coding Time:**  
-![Total Coding Time](https://wakatime.com/badge/user/your-wakatime-id.svg)
-
-🔥 **Current Streak:**  
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam008&theme=tokyonight&hide_border=true)
-
-🚀 **Most Used Languages:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam008&layout=compact&theme=tokyonight&hide_border=true)
+![Samyak's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sam008&layout=compact&theme=blue-green)
 
 
 ***
