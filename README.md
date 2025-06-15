@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 ***
 
-## [Resume](https://drive.google.com/file/d/17dqVKaR5WerCCZNRXbsdZtnmJzcUdkW5/view?usp=sharing)
+## [Resume](https://drive.google.com/file/d/1Zpu86pe62s0TluW4mm9w2ZvoQAd6uzZ2/view?usp=sharing)
 ***
 
 ## Achievements
