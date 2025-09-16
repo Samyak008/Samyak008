@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>
 <p align="center">
-  <b>3rd Year Student @ SRMIST</b>
+  <b>Final Year Student @ SRMIST</b>
 </p>
 </h2>
 
